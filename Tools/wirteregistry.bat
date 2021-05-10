@@ -1,0 +1,1 @@
+WriteOpenRegistry.exe ".lqj" "新点lqj" "E:\MyDocuments\visual studio 2019\Projects\TestOpenFile\Tools\StartApp.exe"
